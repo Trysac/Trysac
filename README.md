@@ -45,11 +45,11 @@ Where one generation is not enough, the factory's architect splits the work into
 
 ## Tech I work with
 
-**Languages:** Java, Go, Python, TypeScript, Rust
-**AI and agents:** Anthropic, Gemini and Vertex AI, DeepSeek, OpenAI, LangGraph, CrewAI, RAG, tool calling, structured outputs, evals, MCP
-**Backend and architecture:** Spring Boot, FastAPI, Node.js, microservices, Hexagonal Architecture, DDD, CQRS
-**Data and cloud:** PostgreSQL, pgvector, Redis, AWS, Google Cloud, Azure, Docker, Kubernetes, GitHub Actions
-**AI-assisted development:** Claude Code, Cursor, GitHub Copilot
+- **Languages:** Java, Go, Python, TypeScript, Rust
+- **AI and agents:** Anthropic, Gemini and Vertex AI, DeepSeek, OpenAI, LangGraph, CrewAI, RAG, tool calling, structured outputs, evals, MCP
+- **Backend and architecture:** Spring Boot, FastAPI, Node.js, microservices, Hexagonal Architecture, DDD, CQRS
+- **Data and cloud:** PostgreSQL, pgvector, Redis, AWS, Google Cloud, Azure, Docker, Kubernetes, GitHub Actions
+- **AI-assisted development:** Claude Code, Cursor, GitHub Copilot
 
 ## Get in touch
 

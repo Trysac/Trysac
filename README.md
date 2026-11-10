@@ -12,8 +12,8 @@ My main project. An autonomous factory that designs, builds, tests, audits and d
 
 The models write and correct the code; a deterministic pipeline decides what is accepted, under a hard budget, with every token and dollar recorded.
 
-- **263 projects delivered** as pull requests across four assembly lines.
-- **82% delivered with no human fix** (249 of 304 started items). Every hand fix is recorded as an intervention and excluded from that rate.
+- **286 projects delivered** as pull requests across four assembly lines.
+- **82% delivered with no human fix** (272 of 331 started items). Every hand fix is recorded as an intervention and excluded from that rate.
 - **Model-agnostic:** the same pipeline and gates run on Anthropic, Google Gemini, Vertex AI and DeepSeek, measured side by side. API cost starts at USD 0.11 per project.
 - **Production quality gates on every project:** lint, types, tests with at least 80% coverage, documentation standard, secret scan, dependency audit, an independent specification audit, and CI on Linux and Windows.
 - **A team of roles, not one prompt:** analyst, architect, generator, fixer, auditor, docs writer, security engineer and visual QA, plus deterministic planning, gates and publishing.
